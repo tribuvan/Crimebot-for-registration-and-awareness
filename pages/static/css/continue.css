@@ -1,0 +1,17 @@
+body{
+    background-image: -webkit-linear-gradient(0deg, #feffff 0%, #ffffff 100%);
+    
+    height: 750px;
+}
+.cf{
+    height:500px;
+    padding: 6% 5%;
+    background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
+    background-color: #B1E1FF;
+    border-radius: 10px;
+    text-align: center;
+}
+.filing {
+    
+    padding: 4% 10% 3% 10%;
+}

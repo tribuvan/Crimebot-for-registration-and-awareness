@@ -1,0 +1,9 @@
+body{
+    background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
+
+}
+
+#title {
+    height: 800px;
+    width:100%;
+  }
